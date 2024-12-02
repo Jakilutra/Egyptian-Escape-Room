@@ -721,10 +721,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b775302f-ef19-4523-a411-d8665c93ab0b
+  cloudProjectId: 034fa363-d167-4b02-b835-23419cd8b652
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Egyptian Escape Room
+  projectName: Egyptian-Escape-Room
   organizationId: jakilutra
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
