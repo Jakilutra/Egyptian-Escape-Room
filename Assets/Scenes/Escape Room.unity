@@ -1348,6 +1348,23 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
+--- !u!1 &509742345 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1600285802025290607, guid: 9b27d0b871cb44a4d9766846206f5f77, type: 3}
+  m_PrefabInstance: {fileID: 1966987567717470674}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &509742352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509742345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a1f5f2cc4945e483ce468575ef4f70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &617758229
 GameObject:
   m_ObjectHideFlags: 0
@@ -1359,6 +1376,8 @@ GameObject:
   - component: {fileID: 617758230}
   - component: {fileID: 617758232}
   - component: {fileID: 617758231}
+  - component: {fileID: 617758234}
+  - component: {fileID: 617758235}
   m_Layer: 6
   m_Name: Floor
   m_TagString: Untagged
@@ -7750,6 +7769,37 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &617758234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617758229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &617758235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617758229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 64cfcbf56a2fd38489841fe4d81d1491, type: 2}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -7844,6 +7894,7 @@ GameObject:
   m_Component:
   - component: {fileID: 650089205}
   - component: {fileID: 650089204}
+  - component: {fileID: 650089207}
   m_Layer: 6
   m_Name: Grid
   m_TagString: Untagged
@@ -7880,6 +7931,21 @@ Transform:
   - {fileID: 214223597}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &650089207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 650089203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &1624570807
 GameObject:
   m_ObjectHideFlags: 0
@@ -8011,7 +8077,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1600285802025290607, guid: 9b27d0b871cb44a4d9766846206f5f77, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 509742352}
   m_SourcePrefab: {fileID: 100100000, guid: 9b27d0b871cb44a4d9766846206f5f77, type: 3}
 --- !u!1001 &2577856477973011505
 PrefabInstance:
@@ -8027,7 +8096,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2807109299859889747, guid: dc785dfef4e78664dae184dc2f7db38b, type: 3}
       propertyPath: orthographic size
-      value: 12
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8771828049629308144, guid: dc785dfef4e78664dae184dc2f7db38b, type: 3}
       propertyPath: m_LocalScale.x
