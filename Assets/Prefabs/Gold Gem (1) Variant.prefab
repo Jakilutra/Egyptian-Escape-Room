@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gold Gem (1) Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 825841801418291581, guid: 345bbaa3fb0e6ad498c5a9ce1c8fc69a, type: 3}
+      propertyPath: m_TagString
+      value: Gold Gem
+      objectReference: {fileID: 0}
     - target: {fileID: 3376141891680868812, guid: 345bbaa3fb0e6ad498c5a9ce1c8fc69a, type: 3}
       propertyPath: m_Color.b
       value: 0.004449993

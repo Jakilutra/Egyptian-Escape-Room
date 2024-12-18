@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Diamond Gem
+  - Gold Gem
+  - Silver Gem
+  - Bronze Gem
+  - Green Gem
+  - Action Tile
   layers:
   - Default
   - TransparentFX

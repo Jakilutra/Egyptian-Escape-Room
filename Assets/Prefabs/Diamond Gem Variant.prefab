@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond Gem Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
+      propertyPath: m_TagString
+      value: Diamond Gem
+      objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
