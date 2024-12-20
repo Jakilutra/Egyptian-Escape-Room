@@ -15,6 +15,10 @@ TagManager:
   - Gate 3
   - Gate 4
   - Gate 5
+  - Cage 1
+  - Cage 2
+  - Cage 3
+  - Cage 4
   layers:
   - Default
   - TransparentFX
