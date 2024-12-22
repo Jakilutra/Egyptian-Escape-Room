@@ -19,6 +19,7 @@ TagManager:
   - Cage 2
   - Cage 3
   - Cage 4
+  - Exit
   layers:
   - Default
   - TransparentFX
