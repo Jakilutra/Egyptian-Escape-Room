@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &5986334558574397131
+--- !u!1001 &475006513986432572
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,15 +10,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_Name
-      value: Green or Bronze Gem
+      value: Bronze Gem Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
+      propertyPath: m_TagString
+      value: Bronze Gem
       objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -13
+      value: -13.132
       objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -54,50 +58,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4430722810960436496, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_Color.b
-      value: 0.16794232
+      value: 0.09803922
       objectReference: {fileID: 0}
     - target: {fileID: 4430722810960436496, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_Color.g
-      value: 0.4610471
+      value: 0.64705884
       objectReference: {fileID: 0}
     - target: {fileID: 4430722810960436496, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_Color.r
-      value: 0.6981132
-      objectReference: {fileID: 0}
-    - target: {fileID: 4430722810960436496, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
-      propertyPath: m_DrawMode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4430722810960436496, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
-      propertyPath: m_SortingOrder
-      value: 1
+      value: 0.9019608
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: -1041151708053255583}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
---- !u!1 &5458680421623282538 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
-  m_PrefabInstance: {fileID: 5986334558574397131}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &-1041151708053255583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5458680421623282538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: f99a5542c0d456a4a8d1b8a1c4c98206, type: 2}
