@@ -12595,7 +12595,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1256134534
 RectTransform:
   m_ObjectHideFlags: 0
@@ -13391,7 +13391,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1425021317
 RectTransform:
   m_ObjectHideFlags: 0
@@ -13527,7 +13527,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1455287184
 RectTransform:
   m_ObjectHideFlags: 0
@@ -14687,7 +14687,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1626482639
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17252,6 +17252,10 @@ PrefabInstance:
     - target: {fileID: 1600285802025290607, guid: 9b27d0b871cb44a4d9766846206f5f77, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2576159128306460407, guid: 9b27d0b871cb44a4d9766846206f5f77, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3080998415259288951, guid: 9b27d0b871cb44a4d9766846206f5f77, type: 3}
       propertyPath: m_LocalPosition.x
