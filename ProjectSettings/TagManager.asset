@@ -21,6 +21,11 @@ TagManager:
   - Cage 4
   - Exit
   - Countdown
+  - Points
+  - Background
+  - Canvas
+  - Health
+  - Timer
   layers:
   - Default
   - TransparentFX
