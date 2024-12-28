@@ -8,9 +8,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -2209566605393830236, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 6fdac77a2f1a9f64c91f6de21b86bc1e, type: 3}
+    - target: {fileID: -2209566605393830236, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6fdac77a2f1a9f64c91f6de21b86bc1e, type: 3}
     - target: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_Name
-      value: Green Gem Variant
+      value: Green Gem
       objectReference: {fileID: 0}
     - target: {fileID: 1788662960898768289, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_TagString
@@ -18,11 +26,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6
+      value: -9
       objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -14
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 3356144118026232531, guid: e60efaf478b55da4c8b5da2eb20aec0f, type: 3}
       propertyPath: m_LocalPosition.z

@@ -431,10 +431,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green or Bronze Gem (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10
@@ -558,10 +554,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -822,10 +814,6 @@ PrefabInstance:
     - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_Name
       value: Green or Bronze Gem (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2811,10 +2799,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11288,10 +11272,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green Gem (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11
@@ -11415,10 +11395,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11791,10 +11767,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13765,10 +13737,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green Gem (7)
       objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11
@@ -14103,10 +14071,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green or Bronze Gem (8)
       objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10
@@ -14168,10 +14132,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14296,10 +14256,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14844,10 +14800,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green Gem (9)
       objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9
@@ -14909,10 +14861,6 @@ PrefabInstance:
     - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_Name
       value: Green or Bronze Gem (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15842,10 +15790,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green Gem (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9
@@ -15969,10 +15913,6 @@ PrefabInstance:
     - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_Name
       value: Green or Bronze Gem (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16265,10 +16205,6 @@ PrefabInstance:
     - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_Name
       value: Green or Bronze Gem (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17053,10 +16989,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green or Bronze Gem (7)
       objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10
@@ -17501,22 +17433,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green or Bronze Gem (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 5458680421623282538, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7957488337751415771, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_Color.b
-      value: 0.64950055
-      objectReference: {fileID: 0}
-    - target: {fileID: 7957488337751415771, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_Color.g
-      value: 0.04223035
-      objectReference: {fileID: 0}
-    - target: {fileID: 7957488337751415771, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
-      propertyPath: m_Color.r
-      value: 0.6886792
-      objectReference: {fileID: 0}
     - target: {fileID: 9043457692244419608, guid: 1f47336e42e6d464d897310d84893c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10
@@ -17807,10 +17723,6 @@ PrefabInstance:
     - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_Name
       value: Green Gem (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957947315467249111, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3273543546499922597, guid: b373663def5b95d4c9d1104e223b2e1e, type: 3}
       propertyPath: m_LocalPosition.x
