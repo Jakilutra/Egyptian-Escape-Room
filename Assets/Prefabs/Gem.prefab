@@ -11,9 +11,11 @@ GameObject:
   - component: {fileID: 3356144118026232531}
   - component: {fileID: 4430722810960436496}
   - component: {fileID: 1804340846789447752}
+  - component: {fileID: 3653411836800329376}
   - component: {fileID: 8294416445803874945}
   - component: {fileID: -4468439858025972936}
   - component: {fileID: 6024160117672676608}
+  - component: {fileID: 8421023241905187905}
   m_Layer: 7
   m_Name: Gem
   m_TagString: Untagged
@@ -105,6 +107,21 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!114 &3653411836800329376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788662960898768289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
+    _objectReferences: []
 --- !u!114 &8294416445803874945
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -188,3 +205,15 @@ PolygonCollider2D:
       - {x: 0, y: -0.42666668}
       - {x: 0.44079673, y: 0.0028648376}
   m_UseDelaunayMesh: 0
+--- !u!114 &8421023241905187905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788662960898768289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c60cd2ee9a34aad9589f1acd79ed02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
