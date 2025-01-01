@@ -26,6 +26,8 @@ TagManager:
   - Canvas
   - Health
   - Timer
+  - Light
+  - Snake Statue
   layers:
   - Default
   - TransparentFX
