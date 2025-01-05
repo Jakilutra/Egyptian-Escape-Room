@@ -28,7 +28,8 @@ TagManager:
   - Timer
   - Light
   - Snake Statue
-  - Swapper 1
+  - WASD
+  - P
   layers:
   - Default
   - TransparentFX
