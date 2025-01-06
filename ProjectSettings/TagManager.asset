@@ -30,6 +30,7 @@ TagManager:
   - Snake Statue
   - WASD
   - P
+  - Clue
   layers:
   - Default
   - TransparentFX
