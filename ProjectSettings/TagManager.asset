@@ -31,6 +31,7 @@ TagManager:
   - WASD
   - P
   - Clue
+  - ClueContainer
   layers:
   - Default
   - TransparentFX
