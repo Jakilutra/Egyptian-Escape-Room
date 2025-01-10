@@ -33,6 +33,11 @@ TagManager:
   - Clue
   - ClueContainer
   - OuterSpace
+  - Enemy Snake
+  - Gate 6
+  - Gate 7
+  - Gate 8
+  - Gate 9
   layers:
   - Default
   - TransparentFX
